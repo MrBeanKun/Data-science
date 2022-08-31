@@ -1,2 +1,4 @@
 # Data-science
-Data science assignment
+Adithyan.R
+1CR19IS008
+ISE A
